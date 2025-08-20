@@ -23,7 +23,7 @@ export default function Hero() {
 
   const stats = [
     { icon: Users, value: "500K+", label: "Seguidores" },
-    { icon: TrendingUp, value: "20K+", label: "Alcance" },
+    { icon: TrendingUp, value: "10M+", label: "Alcance" },
     { icon: Music, value: "25", label: "Anos" },
   ]
 
